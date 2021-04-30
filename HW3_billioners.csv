@@ -1,11 +1,11 @@
-No. 	Name 	Net worth (USD) 	Age 	Nationality 	Source(s) of wealth
-1 Steady 	Jeff Bezos 	$177 billion Increase 	57 	 United States 	Amazon
-2 Increase 	Elon Musk 	$151 billion Increase 	49 	 United States 	Tesla, SpaceX
-3 Steady 	Bernard Arnault & family 	$150 billion Increase 	72 	 France 	LVMH
-4 Decrease 	Bill Gates 	$124 billion Increase 	65 	 United States 	Microsoft
-5 Increase 	Mark Zuckerberg 	$97 billion Increase 	36 	 United States 	Facebook
-6 Decrease 	Warren Buffett 	$96 billion Increase 	90 	 United States 	Berkshire Hathaway
-7 Decrease 	Larry Ellison 	$93 billion Increase 	76 	 United States 	Oracle Corporation
-8 Increase 	Larry Page 	$91.5 billion Increase 	48 	 United States 	Alphabet Inc.
-9 Increase 	Sergey Brin 	$89 billion Increase 	47 	 United States 	Alphabet Inc.
-10 Increase 	Mukesh Ambani 	$84.5 billion Increase 	63 	 India 	Reliance Industries
+No.,Name,Net worth (USD, billions),Age,Nationality,Source(s) of wealth
+1,Steady,Jeff Bezos,$177,57,United States,Amazon
+2,Increase,Elon Musk,$151,49,United States,Tesla, SpaceX
+3,Steady,Bernard Arnault & family,$150,72,France,LVMH
+4,Decrease,Bill Gates,$124,65, nited States,Microsoft
+5,Increase,Mark Zuckerberg,$97,36,United States,Facebook
+6,Decrease,Warren Buffett,$96,90,United States,Berkshire Hathaway
+7,Decrease,Larry Ellison,$93,76,United States,Oracle Corporation
+8,Increase,Larry Page,$91.5,48,United States,Alphabet Inc.
+9,Increase,Sergey Brin,$89,47,United States,Alphabet Inc.
+10,Increase,Mukesh Ambani,$84.5,63,India,Reliance Industries
